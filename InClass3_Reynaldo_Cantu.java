@@ -1,8 +1,9 @@
 /**
  * Name: [Reynaldo Cantu IV]
  * Date: [9/10/2025]
-* Purpose: InClass 3 - 
-* [Write a description about this InClass 3 program]
+* Purpose: InClass 3 - Practice using squares in program.
+* This InClass excersice demonstrates double variables, asking the user for inputs to the variables
+* and finds the surface area using outputs that square integers (Math.pow).
  */
 
 import java.util.Scanner;// Don't forget to import and declare a Scanner for user input.
